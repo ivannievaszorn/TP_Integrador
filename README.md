@@ -69,3 +69,7 @@ Se trabajó con una lista de poblaciones de **331 ciudades argentinas**, extraí
 - OpenAI. (2025). *ChatGPT (versión GPT-4)*. https://openai.com/chatgpt  
 
 > ChatGPT fue utilizado para organizar ideas, redactar contenidos técnicos, sugerir mejoras en la implementación y asistir en el análisis de resultados.
+>
+## 🔗 Enlace al video
+
+> https://youtu.be/jUVyHmFiofc
